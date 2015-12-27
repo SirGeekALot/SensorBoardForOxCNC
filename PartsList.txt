@@ -1,0 +1,43 @@
+Partlist
+
+Exported from InductionSensorBoardForOxCNC_v2.brd at 12/26/2015 12:29 PM
+
+EAGLE Version 7.5.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part         Value          Package      Library      Position (inch)       Orientation
+
+3V3                         3,81/1,4     wirepad      (0.15 0.8)            R90
+12V                         3,81/1,4     wirepad      (0.15 1)              R90
+C.XMAX       0.1uF          C050-024X044 adafruit     (1 0.9)               R180
+C.XMIN       0.1uF          C050-024X044 adafruit     (0.5 0.9)             R180
+C.YMAX       0.1uF          C050-024X044 adafruit     (2.15 0.9)            R180
+C.YMIN       0.1uF          C050-024X044 adafruit     (1.55 0.9)            R180
+C.ZMAX       0.1uF          C050-024X044 adafruit     (3.25 0.9)            R180
+C.ZMIN       0.1uF          C050-024X044 adafruit     (2.75 0.9)            R180
+D.XMAX       1N4148         DO-1N4148    adafruit     (1 0.55)              R0
+D.XMIN       1N4148         DO-1N4148    adafruit     (0.5 0.55)            R0
+D.YMAX       1N4148         DO-1N4148    adafruit     (2.15 0.55)           R0
+D.YMIN       1N4148         DO-1N4148    adafruit     (1.55 0.55)           R0
+D.ZMAX       1N4148         DO-1N4148    adafruit     (3.25 0.55)           R0
+D.ZMIN       1N4148         DO-1N4148    adafruit     (2.75 0.55)           R0
+GND                         3,81/1,4     wirepad      (0.15 0.6)            R90
+R.XMAX       10K            0207/10      resistor     (1 0.65)              R0
+R.XMIN       10K            0207/10      resistor     (0.5 0.65)            R0
+R.YMAX       10K            0207/10      resistor     (2.15 0.65)           R0
+R.YMIN       10K            0207/10      resistor     (1.55 0.65)           R0
+R.ZMAX       10K            0207/10      resistor     (3.25 0.65)           R0
+R.ZMIN       10K            0207/10      resistor     (2.75 0.65)           R0
+SN04-N2.XMAX 1BRN 2BLK 3BLU W237-103     con-wago-500 (0.95 0.3)            R0
+SN04-N2.XMIN 1BRN 2BLK 3BLU W237-103     con-wago-500 (0.35 0.3)            R0
+SN04-N2.YMAX 1BRN 2BLK 3BLU W237-103     con-wago-500 (2.15 0.3)            R0
+SN04-N2.YMIN 1BRN 2BLK 3BLU W237-103     con-wago-500 (1.55 0.3)            R0
+SN04-N2.ZMAX 1BRN 2BLK 3BLU W237-103     con-wago-500 (3.35 0.3)            R0
+SN04-N2.ZMIN 1BRN 2BLK 3BLU W237-103     con-wago-500 (2.75 0.3)            R0
+X-MAX        Wire           3,81/1,1     wirepad      (1 1.1)               R0
+X-MIN        Wire           3,81/1,1     wirepad      (0.45 1.1)            R0
+Y-MAX                       3,81/1,1     wirepad      (2.15 1.1)            R0
+Y-MIN                       3,81/1,1     wirepad      (1.55 1.1)            R0
+Z-MAX                       3,81/1,1     wirepad      (3.25 1.1)            R0
+Z-MIN                       3,81/1,1     wirepad      (2.75 1.1)            R0
